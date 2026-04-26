@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/khawaja-babar-naseer-portfolio/static/css/main.57b2bf66.css",
-    "main.js": "/khawaja-babar-naseer-portfolio/static/js/main.914d12e8.js",
+    "main.js": "/khawaja-babar-naseer-portfolio/static/js/main.86f69f77.js",
     "static/js/453.a4e2c545.chunk.js": "/khawaja-babar-naseer-portfolio/static/js/453.a4e2c545.chunk.js",
     "static/media/mock03.png": "/khawaja-babar-naseer-portfolio/static/media/mock03.44f005108500c26781da.png",
     "static/media/mock01.png": "/khawaja-babar-naseer-portfolio/static/media/mock01.4692ac50ef9e3a54ad5b.png",
@@ -11,11 +11,11 @@
     "static/media/mock04.png": "/khawaja-babar-naseer-portfolio/static/media/mock04.bd4d105d31ab5705c226.png",
     "index.html": "/khawaja-babar-naseer-portfolio/index.html",
     "main.57b2bf66.css.map": "/khawaja-babar-naseer-portfolio/static/css/main.57b2bf66.css.map",
-    "main.914d12e8.js.map": "/khawaja-babar-naseer-portfolio/static/js/main.914d12e8.js.map",
+    "main.86f69f77.js.map": "/khawaja-babar-naseer-portfolio/static/js/main.86f69f77.js.map",
     "453.a4e2c545.chunk.js.map": "/khawaja-babar-naseer-portfolio/static/js/453.a4e2c545.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57b2bf66.css",
-    "static/js/main.914d12e8.js"
+    "static/js/main.86f69f77.js"
   ]
 }
